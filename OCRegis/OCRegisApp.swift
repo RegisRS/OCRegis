@@ -12,6 +12,8 @@ struct OCRegisApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            //Apagar()
+            //Apagar2()
         }
     }
 }
