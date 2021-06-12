@@ -11,9 +11,9 @@ import SwiftUI
 struct OCRegisApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //ContentView()
             //Apagar()
-            //Apagar2()
+            Apagar1()
         }
     }
 }

@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import Vision
 
 struct ContentView: View {
     @State var image = NSImage(named: "image")
